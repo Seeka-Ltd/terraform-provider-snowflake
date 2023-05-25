@@ -29,3 +29,9 @@ dist/
 
 # Test environment variables
 test.env
+
+
+# Demo additions
+*.terraform*
+*.tfstate
+*.tfstate.*
